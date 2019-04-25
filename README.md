@@ -1,2 +1,2 @@
 # Analyze-AB-test-results-Udacity-Project
-Udacity Data Analyst Nanodegree - Analyze A/B Test Results
+Analyze A/B Test Results - Udacity Data Analyst Nanodegree Project
